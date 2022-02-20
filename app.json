@@ -1,13 +1,13 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": " DEAD WICK BOT",
+  "description": "Dead wick Bot is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/cad3f09ca7b2f144cc3ee.jpg ",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "Deadwickbot",
     "modular",
     "productivity"
   ],
@@ -19,7 +19,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Hêll. Required for reverting after clone.",
-      "value": "『ℌєℓℓ』",
+      "value": "『ASHU』",
       "required": false
     },
     "PROFANITY": {
